@@ -1,0 +1,6 @@
+{
+  "name": "02WS Weather Integration",
+  "content_in_root": true,
+  "domains": ["sensor"],
+  "render_readme": true
+}
