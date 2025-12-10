@@ -1,0 +1,9 @@
+{
+  "domain": "02ws",
+  "name": "02WS Weather",
+  "codeowners": ["@yourusername"],
+  "documentation": "https://github.com/yourusername/02ws_ha",
+  "iot_class": "cloud_polling",
+  "version": "1.0.0",
+  "requirements": []
+}
