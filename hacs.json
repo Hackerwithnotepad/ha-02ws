@@ -1,4 +1,5 @@
 {
   "name": "02WS Weather Integration",
-  "render_readme": true
+  "render_readme": true,
+  "domains": ["sensor"]
 }

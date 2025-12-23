@@ -23,4 +23,4 @@ This integration exposes the 02WS "now" API fields as individual Home Assistant 
 
 ```yaml
 sensor:
-  - platform: 02ws
+  - platform: o2ws
