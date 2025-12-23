@@ -1,0 +1,11 @@
+{
+  "domain": "o2ws",
+  "name": "02WS Weather",
+  "codeowners": ["@Hackerwithnotepad"],
+  "documentation": "https://github.com/Hackerwithnotepad/ha-02ws",
+  "iot_class": "cloud_polling",
+  "version": "1.0.0",
+  "requirements": [],
+  "platforms": ["sensor"],
+  "description": "Pulls real-time weather data from 02WS / JeruSky API into Home Assistant."
+}

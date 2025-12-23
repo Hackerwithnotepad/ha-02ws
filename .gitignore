@@ -1,0 +1,10 @@
+*.code-workspace
+.vscode/
+.idea/
+.DS_Store
+*.log
+*.tar
+*.db
+.secrets.yaml
+__pycache__/
+*.pyc
